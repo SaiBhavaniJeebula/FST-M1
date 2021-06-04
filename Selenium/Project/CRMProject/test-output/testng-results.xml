@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-10T07:59:25Z" name="Default suite" finished-at="2021-05-10T08:12:53Z" duration-ms="808365">
+    <groups>
+    </groups>
+    <test started-at="2021-05-10T07:59:25Z" name="Default test" finished-at="2021-05-10T08:12:53Z" duration-ms="808365">
+      <class name="Tests.NewTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:Tests.NewTest@4b7dc788]" started-at="2021-05-10T13:29:25Z" name="beforeClass" finished-at="2021-05-10T13:29:29Z" duration-ms="3948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="activity1()[pri:0, instance:Tests.NewTest@4b7dc788]" started-at="2021-05-10T13:29:29Z" name="activity1" finished-at="2021-05-10T13:29:29Z" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- activity1 -->
+        <test-method signature="activity2()[pri:0, instance:Tests.NewTest@4b7dc788]" started-at="2021-05-10T13:29:29Z" name="activity2" finished-at="2021-05-10T13:29:29Z" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- activity2 -->
+        <test-method signature="activity3()[pri:0, instance:Tests.NewTest@4b7dc788]" started-at="2021-05-10T13:29:29Z" name="activity3" finished-at="2021-05-10T13:29:29Z" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- activity3 -->
+        <test-method signature="activity4()[pri:0, instance:Tests.NewTest@4b7dc788]" started-at="2021-05-10T13:29:29Z" name="activity4" finished-at="2021-05-10T13:29:31Z" duration-ms="2255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- activity4 -->
+        <test-method signature="activity5()[pri:0, instance:Tests.NewTest@4b7dc788]" started-at="2021-05-10T13:29:31Z" name="activity5" finished-at="2021-05-10T13:29:31Z" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- activity5 -->
+        <test-method signature="activity6()[pri:0, instance:Tests.NewTest@4b7dc788]" started-at="2021-05-10T13:29:31Z" name="activity6" finished-at="2021-05-10T13:29:31Z" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- activity6 -->
+        <test-method signature="activity7()[pri:0, instance:Tests.NewTest@4b7dc788]" started-at="2021-05-10T13:29:31Z" name="activity7" finished-at="2021-05-10T13:29:34Z" duration-ms="2663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- activity7 -->
+        <test-method signature="activity8()[pri:0, instance:Tests.NewTest@4b7dc788]" started-at="2021-05-10T13:29:34Z" name="activity8" finished-at="2021-05-10T13:29:37Z" duration-ms="3347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- activity8 -->
+        <test-method signature="activity9()[pri:0, instance:Tests.NewTest@4b7dc788]" started-at="2021-05-10T13:29:37Z" name="activity9" finished-at="2021-05-10T13:42:51Z" duration-ms="794037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- activity9 -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Tests.NewTest@4b7dc788]" started-at="2021-05-10T13:42:51Z" name="afterClass" finished-at="2021-05-10T13:42:53Z" duration-ms="1808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Tests.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
